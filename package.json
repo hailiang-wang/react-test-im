@@ -1,0 +1,26 @@
+{
+  "name": "react-test-im",
+  "version": "1.0.0",
+  "description": "Chat Client based on ReactJS, PeerJS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "webrtc",
+    "nodejs",
+    "react",
+    "javascript",
+    "awesome"
+  ],
+  "author": "Hai Liang Wang<hailiang.hl.wang@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.8.4",
+    "koa": "^2.1.0",
+    "koa-static": "^3.0.0",
+    "log4js": "^1.1.1",
+    "peer": "~0.2.6",
+    "socket.io": "~1.0.6"
+  }
+}
